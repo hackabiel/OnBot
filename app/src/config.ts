@@ -15,7 +15,7 @@ export default defineConfig({
           },
           shape: 'square',
           pagination: 'count',
-          title: 'Welcome to hackabiel',
+          title: 'Welcome to La Macherie - hackabiel',
           description:
             "Where creatives, freelancers, and entrepreneurs unite to get things done together.<br><br> It's <b>collaborative</b>, <b>goal-driven</b>, and fully <b>supportive</b> This is your space to turn ideas into action and grow your network.</p>",
           button: 'Next',
